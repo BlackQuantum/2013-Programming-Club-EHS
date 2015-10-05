@@ -1,6 +1,8 @@
 2013-Programming-Club-EHS
 =========================
 
+**UPDATE** THIS REPOSITORY IS FOR ARCHIVAL PURPOSES ONLY. IT WILL NOT BE UPDATED.
+
 Please get approval before submitting a pull request.
 
 Staff Advisor: Mr. Behnke
