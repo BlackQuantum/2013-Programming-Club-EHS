@@ -10,6 +10,22 @@ Staff Advisor: Mr. Behnke
 Members:  Scott Fisk
           Derrick Lockwood
           Adam Markon
+          Josh Munns
+          Christina Le
+          Justin Dietz
+          Collin Westgard
+	Richie Hodgson
+	Sam Vance
+	Austin Velishee
+	Alex Shwalbe
+	Steven Tran
+	Alec Adair
+	Josh B
+	Aleksander Stenstad
+	Sai Thota
+	Johnny Sabel
+	Tyler Huusko
+	Talha Absero
           
 Rules:
 
